@@ -1,2 +1,7 @@
 # complete-javascript-course
-https://www.udemy.com/the-complete-javascript-course/?couponCode=C3GITHUB10
+
+View my demos:
+
+[Pig-Game](https://phazeoner.github.io/complete-javascript-course/4-DOM-pig-game/),
+
+[Budgety](https://phazeoner.github.io/complete-javascript-course/6-budgety/)
